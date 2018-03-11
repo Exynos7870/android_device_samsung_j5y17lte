@@ -31,4 +31,4 @@ BOARD_SEPOLICY_DIRS += device/samsung/j5y17lte/sepolicy
 TARGET_SYSTEM_PROP += $(LOCAL_PATH)/system.prop
 
 # Inherit from the proprietary version
--include vendor/samsung/j7y17lte/BoardConfigVendor.mk
+-include vendor/samsung/j5y17lte/BoardConfigVendor.mk

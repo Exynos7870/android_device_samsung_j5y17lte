@@ -27,4 +27,4 @@ TARGET_SPECIFIC_HEADER_PATH += $(LOCAL_PATH)/include
 $(call inherit-product, device/samsung/exynos7870-common/device-common.mk)
 
 # call the proprietary setup
-$(call inherit-product, vendor/samsung/j7y17lte/j7y17lte-vendor.mk)
+$(call inherit-product, vendor/samsung/j5y17lte/j5y17lte-vendor.mk)
