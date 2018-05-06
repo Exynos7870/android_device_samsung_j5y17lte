@@ -146,3 +146,6 @@ etc/wifi/bcmdhd_mfg.bin
 etc/wifi/bcmdhd_sta.bin
 etc/wifi/nvram_mfg.txt
 etc/wifi/nvram_net.txt
+
+# Audio
+audio_hal.disable_two_mic=true
